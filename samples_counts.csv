@@ -1,0 +1,96 @@
+species,ori label,body part,num of pic
+roe deer,abd,abd,111
+roe deer,back,back,114
+roe deer,tail,tail,111
+sika deer,abd,abd,165
+sika deer,tail,tail,142
+sika deer,back,back,233
+water deer,abd,abd,84
+water deer,back,back,103
+water deer,tail,tail,84
+tiger,abd,abd,100
+tiger,back,back,174
+tiger,tail,tail,143
+red fox,abd,abd,146
+red fox,back,back,214
+red fox,tail,tail,175
+leopard,abd,abd,116
+leopard,back,back,103
+leopard,tail,tail,97
+Eurasian otter,abd,abd,113
+Eurasian otter,back,back,130
+Eurasian otter,tail,tail,20
+Eurasian otter,otter tail,tail,114
+racoon dog,abd,abd,73
+racoon dog,back,back,189
+racoon dog,tail,tail,113
+badger,back,back,90
+badger,fore,front leg,50
+badger,rear,tail,60
+badger,head,head,58
+badger,hind,hind leg,81
+badger,abd,abd,10
+brown bear,abd,abd,52
+brown bear,back,back,40
+brown bear,hind,hind leg,40
+brown bear,fore,front leg,83
+black bear,abd,abd,42
+black bear,back,back,123
+black bear,tail,tail,62
+black bear,head,head,80
+black bear,hind,hind leg,55
+boar,abd,abd,93
+boar,head,head,29
+boar,fore,front leg,37
+boar,rear,butt,16
+yellow-throated marten,abd,abd,14
+yellow-throated marten,back,back,131
+yellow-throated marten,neck,neck,10
+yellow-throated marten,tail,tail,56
+leopard cat,abd,abd,74
+leopard cat,back,back,223
+leopard cat,fore,front leg,54
+leopard cat,head,head,63
+leopard cat,tail,tail,63
+goral,abd,abd,60
+goral,back,back,60
+goral,fore,front leg,20
+goral,hind,hind leg,25
+goral,bei,back,9
+goral,fu,abd,6
+jungle cat,hind,hind leg,122
+jungle cat,tail,tail,72
+jungle cat,back,back,36
+jungle cat,wei,tail,35
+Pallas's cat,fore,front leg,80
+Pallas's cat,tail,tail,146
+Pallas's cat,back,back,42
+Pallas's cat,bei,back,6
+Pallas's cat,wei,tail,72
+wolf,back,back,32
+wolf,head,head,70
+wolf,hind,hind leg,41
+wolf,tail,tail,142
+wolf,abd,abd,1
+blue sheep,abd,abd,42
+blue sheep,abd ce,abd ,74
+blue sheep,abd zhong,abd ,80
+forest musk-deer,abd,abd,38
+forest musk-deer,fore,front leg,52
+forest musk-deer,none,"Shedding hair, no specific location.",103
+forest musk-deer,back,back,35
+forest musk-deer,bei,back,15
+forest musk-deer,fu,abd,9
+Siberian musk-deer,abd,abd,83
+Siberian musk-deer,back,back,155
+Siberian musk-deer,tail,tail,49
+Western red deer,abd,abd,116
+Western red deer,back,back,117
+Western red deer,tail,tail,111
+mainland clouded leopard,abd,abd,30
+mainland clouded leopard,back,back,45
+mainland clouded leopard,tail,tail,51
+mainland clouded leopard,fore,front leg,28
+mainland clouded leopard,head,head,51
+chimpanzee,,"Shedding hair, no specific location.",200
+orangutan,,"Shedding hair, no specific location.",181
