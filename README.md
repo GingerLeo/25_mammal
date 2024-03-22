@@ -3,7 +3,7 @@
 # Access code, please inquire with the author.
 
 # The images in Folder '2024_train_85percent_ori' have been cropped to remove the scale bar at the bottom of the electron microscope images, and centered cropping into square images for ease of subsequent processing. 
-# The folder retains sampling site information. 
+# This folder and folder "2024_test_15percent_ori" retains sampling site information. 
 # Reference table for specific sampling sites "samples_counts.csv"
 
 # Using pic_30000.m, images are randomly flipped vertically, cropped along the direction of hair with a minimum unit of [300 300], and contrast is randomly adjusted within a small range (simulating different shooting conditions). Gaussian noise (random noise level between 0.001 and 0.008) or Poisson noise is randomly added, or no noise is added. Please note that this operation will overwrite the original folder. Enhanced generated filenames contain "enhanced". Due to forgetting to set the random seed, if you want to replicate the experimental results, it is recommended to use folder "2024_train_85percent_aug_rename" for subsequent operations.
