@@ -14,7 +14,7 @@
 
 # The trained network is named "trained_ResNet50.mat".
 
-# Use "test_rng97_20240214.m" and Folder "2024_test_15percent_aug_rename" to validate the network. Generate the top three predicted labels and corresponding scores for the test set images using the network. Generate and visualize the confusion matrix. Generate occlusion sensitivity maps.
+# Use "rng97.m" and Folder "2024_test_15percent_aug_rename" to validate the network. Generate the top three predicted labels and corresponding scores for the test set images using the network. Generate and visualize the confusion matrix. Generate occlusion sensitivity maps.
 
 # Detailed pixel statistics for sensitivity maps can calculate by "pixels_table.m"
 
