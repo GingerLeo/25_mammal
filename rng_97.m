@@ -15,7 +15,7 @@ customReadFunction = @(filename) repmat(imread(filename), [1, 1, 3]);
 imds.ReadFcn = customReadFunction;
 
 % Load the pre-trained deep learning network
-load('\trained_ResNet50.mat','transferNet');
+load('\MammalHairNet.mat','transferNet');
 
 filePaths = imds.Files;
 [~, labels] = cellfun(@(x) fileparts(fileparts(x)), filePaths, 'UniformOutput', false);
