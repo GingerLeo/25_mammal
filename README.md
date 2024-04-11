@@ -12,7 +12,7 @@
 
 # Modify the fully connected layer and output layer of ResNet-50, save the pre-trained parameters, and train the neural network. Utilize the built-in Experiment Manager app in MATLAB to explore the best hyperparameter combinations.Simply call the function "train_ResNet50_manager" in the Experiment Manager. The "train_ResNet50_manager.mlx" file should be placed in the Experiment Manager project directory.  When splitting the dataset, incorporate some additional image augmentation for the training set images: Randomly scale between 0.5 and 1.5 times the original size; randomly rotate between -45 and 45 degrees; perform random flips along the X and Y axes.
 
-# The trained network is named "trained_ResNet50.mat".
+# The trained network is named "MammalHairNet.mat".
 
 # Use "rng97.m" and Folder "2024_test_15percent_aug_rename" to validate the network. Generate the top three predicted labels and corresponding scores for the test set images using the network. Generate and visualize the confusion matrix. Generate occlusion sensitivity maps.
 
